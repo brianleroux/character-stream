@@ -1,0 +1,23 @@
+{
+  "name": "character-stream",
+  "version": "0.1.0",
+  "description": "I stream a file one character at a time.",
+  "main": "character-stream.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/brianleroux/character-stream"
+  },
+  "keywords": [
+    "character",
+    "stream"
+  ],
+  "author": "Brian LeRoux",
+  "license": "Apache2",
+  "readmeFilename": "readme.md",
+  "bugs": {
+    "url": "https://github.com/brianleroux/character-stream/issues"
+  }
+}
